@@ -6,4 +6,13 @@
 ![card5](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tkp153&theme=calm&utcOffset=8)
 
 <!--START_SECTION:waka-->
+
+```rust
+From: 31 January 2024 - To: 31 January 2024
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
