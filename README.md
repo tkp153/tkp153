@@ -21,6 +21,3 @@ Other        2 hrs 51 mins   >------------------------   03.31 %
 
 <!--END_SECTION:waka-->
 
-## AI Video
-  
-https://github.com/user-attachments/assets/42606536-57c7-4ae0-9773-0ec5259ff795
